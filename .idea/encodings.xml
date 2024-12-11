@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/perf-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-db/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-mq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/perf-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
